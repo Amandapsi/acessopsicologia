@@ -1,0 +1,33 @@
+/* 3 SHADE COLUMNS
+-------------------------------------------------*/
+.three-shade-col {
+  text-align: center;
+  color: $white;
+  [class^="col-"] {
+    height: 250px;
+    padding: $space*3 $space;
+    &:nth-child(1) {
+        background: $colorPrimary;
+    }
+    &:nth-child(2) {
+        background: lighten($colorPrimary, 2%);
+    }
+    &:nth-child(3) {
+        background: lighten($colorPrimary, 4%);
+    }
+  }
+  i {
+    font-size: 3rem;
+    color: $white;
+    }
+    h3 {
+        color: $white;
+    }
+    ul {
+        @extend %no-bullet;
+    }
+    table {
+      width: 70%;
+      margin-left: 15%;
+    }
+}

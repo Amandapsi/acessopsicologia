@@ -1,0 +1,11 @@
+/* SECRECY
+-------------------------------------------------*/
+.secrecy {
+    background: $colorPrimary;
+    text-align: center;
+    padding: $space * 2;
+    color: $white;
+    .icon-box {
+        margin-top: 15px;
+    }
+}

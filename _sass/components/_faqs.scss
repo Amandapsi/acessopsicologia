@@ -1,0 +1,19 @@
+/* FAQS
+-------------------------------------------------*/
+.faqs {
+  background: $colorBg;
+  text-align: center;
+  padding: $space * 2;
+  .icon {
+    font-size: 1.5rem;
+    color: $colorPrimary;
+  }
+  .thumbnail {
+    border: none;
+    border-radius: 0;
+    margin-top: 15px;
+    h4 {
+      color: $colorPrimary;
+    }
+  }
+}

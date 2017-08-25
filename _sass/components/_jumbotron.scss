@@ -1,0 +1,25 @@
+/* HERO
+-------------------------------------------------*/
+.banner-content {
+  padding: $space 0;
+  background: rgba($white, 0.7);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  h2 {
+      margin: 0 0 5px;
+      color: $colorPrimary;
+  }
+  p {
+      font-size: 16px;
+  }
+}
+
+.banner {
+  margin-top: 48px;
+  background: url('/img/hero.jpg') no-repeat;
+  background-size: cover;
+  height: 400px;
+  margin-bottom: 0;
+  position: relative;
+}

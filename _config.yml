@@ -80,3 +80,7 @@ faqs:
   - title: CFP
     description: Site do Conselho Federal de Psicologia - Brasil
     link: http://site.cfp.org.br/
+
+sass:
+  sass_dir: _sass
+  style: compressed

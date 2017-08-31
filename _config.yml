@@ -84,3 +84,11 @@ faqs:
 sass:
   sass_dir: _sass
   style: compressed
+
+assets:
+  assets:
+    - "*.jpg"
+    - "main.css"
+  cache: false
+  sources:
+    - _assets/img

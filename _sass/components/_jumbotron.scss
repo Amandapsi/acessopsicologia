@@ -16,7 +16,7 @@
 }
 
 .banner {
-  background: url('{{site.baseurl}}/img/image2.jpg') no-repeat;
+  background: url('{{ site.baseurl }}/assets/img/image2.jpg') no-repeat;
   background-size: cover;
   height: 550px;
   margin-bottom: 0;

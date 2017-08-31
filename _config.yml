@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Acesso Psicologia
-email: your-email@domain.com
+email: amandasmoraespsi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Acesso Psicologia.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -43,7 +43,7 @@ jumbotron:
 # Contacts
 contact:
   phone: (62) 99958-5026
-  email: amandademoraespsi@gmail.com
+  email: amandasmoraespsi@gmail.com
   address: Goiânia/GO - Brasil
 
 # Opening hours

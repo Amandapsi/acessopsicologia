@@ -90,5 +90,3 @@ assets:
     - "*.jpg"
     - "main.css"
   cache: false
-  sources:
-    - _assets/img

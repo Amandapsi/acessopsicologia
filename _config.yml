@@ -86,7 +86,4 @@ sass:
   style: compressed
 
 assets:
-  assets:
-    - "*.jpg"
-    - "main.css"
   cache: false

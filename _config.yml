@@ -51,15 +51,16 @@ monday_friday: 09:00 - 21:00
 
 # About
 about:
-  service: O serviço prestado consiste em atendimento psicológico via Skype.
-  sessions: Os atendimentos são de caráter breve e focal (máximo de 20 sessões).
+  service: O serviço prestado consiste em orientação psicológica online via Skype.
+  sessions: As orientações são de caráter breve e focal (máximo de 20 sessões).
+  presencial: Caso seja notada a necessidade de aprofundamento no acompanhamento, a pessoa será encaminhada para atendimento psicológico presencial.
   price: O preço das sessões é combinado individualmente.
-  elegibility: Menores de 18 anos precisam da autorização de seus responsáveis para que recebam atendimento.
+  elegibility: Menores de 18 anos precisam da autorização de seus responsáveis para que recebam orientação psicológica.
 
 # Secrecy
 secrecy:
   title: Sigilo Profissional
-  description: O profissional de psicologia tem a obrigação de guardar sigilo sobre os atendimentos. Sendo assim, é imprescindível que ambas partes (psicóloga e paciente) adotem medidas que diminuam os riscos e a vulnerabilidade dos atendimentos online (que não são absolutamente invioláveis).
+  description: O profissional de psicologia tem a obrigação de guardar sigilo sobre as orientações psicológicas. Sendo assim, é imprescindível que ambas partes (psicóloga e paciente) adotem medidas que diminuam os riscos e a vulnerabilidade das orientações psicológicas online (que não são absolutamente invioláveis).
 
 # Faqs
 faqs:
@@ -78,6 +79,14 @@ faqs:
   - title: CFP
     description: Site do Conselho Federal de Psicologia - Brasil
     link: http://site.cfp.org.br/
+  
+  - title: Registros das sessões
+    description: Resolução CFP Nº 001/2009
+    link: https://site.cfp.org.br/wp-content/uploads/2009/04/resolucao2009_01.pdf
+  
+  - title: Armazenamento de documentos psicológicos
+    description: Resolução CFP Nº 005/2010
+    link: http://site.cfp.org.br/wp-content/uploads/2010/03/resolucao2010_005.pdf
 
 sass:
   sass_dir: _sass
